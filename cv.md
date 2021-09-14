@@ -1,11 +1,11 @@
 # CV
 
-# Kanstantsin Zabahonski
+# Konstantsin Zabagonsky
 
 # My Contact:
 * Phone: +375 (29) 229-42-63
 * E-mail: kosmyd@gmail.com
-* GitHub:  Kanstantsin Zabahonski
+* GitHub:  Konstantsin Zabagonsky
 
 # About Me
 

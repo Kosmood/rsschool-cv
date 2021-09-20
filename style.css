@@ -1,0 +1,167 @@
+body {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    align-content: flex-start;
+    background-color: #beb790;
+    font-family: 'Times New Roman', Times, serif;
+}
+aside {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(7, 0, 0);
+    color: #ffffff;
+    width: 300px;
+    height: 950px;
+}
+.Photo {
+    height: 300px;
+}
+.Contacts {
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    margin-left: 5px;
+    height: 130px;
+}
+
+.Contacts-list {
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
+.Skills-main {
+    display: flex;
+    flex-direction: column;
+    margin-left: 5px;
+    font-size: 17px;
+    height: 210px;
+}
+
+.Skills {
+    display: flex;
+    flex-direction: column;
+    margin-top: 0px;
+}
+
+.Skills-list {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    align-content: center;
+}
+
+.Icon {
+    width: 30px;
+    height: 30px;
+    margin-right: 30px;
+}
+
+li {
+    list-style-type: none;
+}
+
+.Language {
+    display: flex;
+    flex-direction: column;
+    margin-left: 5px;
+    font-size: 20px;
+    height: 110px;
+    margin-top: 0px;
+}
+
+.Language-list {
+    margin-bottom: 12px;
+    margin-top: 0px;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(246, 248, 223);
+    color: rgb(7, 0, 0);
+    width: 600px;
+    height: 950px;
+}
+
+section {
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.Name {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    height: 60px;
+    font-size: 20px;
+    text-align: center;
+}
+.Description {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+section h2 {
+    font-size: 30px;
+
+}
+
+section h3 {
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+Footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+    height: 200px;
+    background-color: rgb(231, 240, 131);
+}
+
+.Footer-github {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.Footer-github a {
+    font-size: 30px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+.Logo-github {
+    width: 100px;
+    height: 100px;
+}
+
+.Logo-rs_school {
+    width: 270px;
+    height: 100px;
+}
+
+.Date-created {
+    font-size: 30px;
+}
+.Code-examples {
+    font-size: 17px; 
+}
+pre {
+    margin-left: 20px;
+}
+a {
+    color: #4d3af8
+}
+h1 {
+    height: 20px;
+}
